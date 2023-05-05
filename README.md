@@ -4,6 +4,7 @@
 * [Description](#description)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Features in development](#development)
 
 ## Description
 This proyect was made for the ieee chapter "RAS Javeriana" to control pepper using ros bridge, I'm planning to modify this website to allow it to control every robot using the same page.
@@ -34,3 +35,8 @@ $ roslaunch rosbridge_server rosbridge_websocket.launch
 ```
 
 If you want to change your local ip address to connect with ros bridge, change a ros topic or any other parameter, you need to modify the file located in /pepper_ros_bridge/src/scripts/Config.js
+
+## Features in development
+* Textbox to publish to pepper speech topic
+* Sliders to control pepper arms
+* Slider to control pepper head
