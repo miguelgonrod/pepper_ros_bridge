@@ -4,7 +4,7 @@
 * [Description](#description)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features in development](#features in development)
+* [Features in development](#features_in_development)
 
 ## Description
 This proyect was made for the ieee chapter "RAS Javeriana" to control pepper using ros bridge, I'm planning to modify this website to allow it to control every robot using the same page.
