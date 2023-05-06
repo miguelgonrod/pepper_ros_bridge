@@ -25,7 +25,7 @@ $ sudo apt install ros-noetic-desktop-full
 $ sudo apt install ros-noetic-rosbridge-server
 ```
 
-Now you need to install it locally using npm:
+Now you need to install it locally and launch it using npm:
 ```
 $ git clone https://github.com/miguelgonrod/pepper_ros_bridge.git
 $ cd pepper_ros_bridge
